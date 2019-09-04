@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Fullstackstudio</title>
+  
+  <subtitle>What I&#39;ve done.</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-09-03T06:19:31.837Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Hyungju Moon</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Github에서 Hexo 시작하기</title>
+    <link href="http://yoursite.com/2019/08/31/%EC%83%88%EB%A1%9C%EC%9A%B4-%EB%B8%94%EB%A1%9C%EA%B9%85-%ED%88%B4%EC%9D%84-%EC%86%8C%EA%B0%9C%ED%95%A9%EB%8B%88%EB%8B%A4/"/>
+    <id>http://yoursite.com/2019/08/31/새로운-블로깅-툴을-소개합니다/</id>
+    <published>2019-08-31T07:41:48.000Z</published>
+    <updated>2019-09-03T06:19:31.837Z</updated>
+    
+    <content type="html"><![CDATA[<p>과거에 블로그라하면 네이버블로그나 티스토리를 떠올렸지만,<br>SEO에 대한 이해가 높아지고 구글애드센스와같은 광고수익모델이 보편화되면서<br>자잘한 제약이 많은 블로그 플랫폼을 떠나는 사람들이 많아졌다.</p><p>##정적사이트생성기 SSG<br>워드프레스나 블로거와 같은 툴도 큰 인기를 끌었지만<br>깃허브나 깃랩이 제공하는 무료 (정확히는 한달에 100GB에 달하는 soft limit)<br>페이지 호스팅과 정적 사이트 생성기 Static Site Generator (SSG)를 이용하면<br>각종 테마와 플러그인을 직접 설치해가며 나에게 꼭 맞는 블로그를 구축하면서도<br>플랫폼의 운영사의 방침에 얽매이지 않는 블로그를 구축할 수 있다.</p><p>향후 다시 언급하겠지만, 깃랩 페이지에서의 경험은 별로 좋지 않았기때문에<br>깃허브 페이지를 추천하고싶다.</p><p>2019년 현재 인기있는 Static Site Generator (SSG)<br>가장 널리 사용되는 루비기반의 Jekyll,<br>NodeJS 기반의 Hexo, Gatsby 등이 있고<br>더 알아보지는 못했지만 Hugo, Middleman, Harp, Brunch 같은 것들도 있다.<br>차후 이러한 SSG들의 특징을 조사해서 포스팅해보겠다.</p><p>##Hexo with Github Pages<br>우선 나는 Gitlab Pages 서비스를 통해 HEXO 를 호스팅해보았는데,<br>Netlify에서 Gatsby를 호스팅할때 너무나 모든게 마법처럼 됐던 경험과는<br>끔직하게 다른 경험이었다. Repo명명법부터 커스텀도메인, CSS path문제가 계속해서<br>발목을 잡았고, 제대로 사이트를 띄우기까지 너무나 오랜시간이 걸렸다.</p><p>이게 단지 Gitlab Pages의 Hexo와의 궁합문제인지는 모르겠으나<br>Github Pages에서 Hexo를 실행시켰을때 훨씬 쉽게 모든게 진행됐다.</p><p>##준비</p><ol><li>Mac OS 환경, Terminal,</li><li>Atom 에디터</li><li>NodeJS, npm</li><li>Github 계정<br>A 사용할 도메인 또는 서브도메인 (Optional)</li></ol>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;과거에 블로그라하면 네이버블로그나 티스토리를 떠올렸지만,&lt;br&gt;SEO에 대한 이해가 높아지고 구글애드센스와같은 광고수익모델이 보편화되면서&lt;br&gt;자잘한 제약이 많은 블로그 플랫폼을 떠나는 사람들이 많아졌다.&lt;/p&gt;
+&lt;p&gt;##정적사이트생성기 SSG&lt;
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>CNAME is the big problem</title>
+    <link href="http://yoursite.com/2019/08/31/CNAME-is-the-big-problem/"/>
+    <id>http://yoursite.com/2019/08/31/CNAME-is-the-big-problem/</id>
+    <published>2019-08-31T07:16:23.000Z</published>
+    <updated>2019-08-31T07:16:23.457Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>This is among the one</title>
+    <link href="http://yoursite.com/2019/08/31/This-is-among-the-one/"/>
+    <id>http://yoursite.com/2019/08/31/This-is-among-the-one/</id>
+    <published>2019-08-31T07:08:48.000Z</published>
+    <updated>2019-08-31T07:08:48.567Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>METEOR JS</title>
+    <link href="http://yoursite.com/2019/08/31/Post/"/>
+    <id>http://yoursite.com/2019/08/31/Post/</id>
+    <published>2019-08-31T05:28:40.000Z</published>
+    <updated>2019-08-31T05:55:04.041Z</updated>
+    
+    <content type="html"><![CDATA[<p>미티어JS를 소개합니다. </p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ npm install meteor</span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;미티어JS를 소개합니다. &lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
